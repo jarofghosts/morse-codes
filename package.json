@@ -1,7 +1,7 @@
 {
   "name": "morse-codes",
   "version": "0.0.0",
-  "description": "collection of morse codes",
+  "description": "the morse alphabet and other codes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,8 +13,7 @@
   "keywords": [
     "morse",
     "code",
-    "collection",
-    "array"
+    "collection"
   ],
   "author": "jesse keane",
   "license": "MIT",
